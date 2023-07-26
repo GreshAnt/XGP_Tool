@@ -1,4 +1,4 @@
-1.确保你是win10或者win11系统，否则可能会有bug
+1.Python
 
 2.确保你已经下载microsoft edge浏览器
 
