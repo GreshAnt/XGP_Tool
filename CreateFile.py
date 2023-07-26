@@ -2,7 +2,7 @@ from cryptography.fernet import Fernet
 import base64
 import hashlib
 def generate_unique_encrypted_file(device_id):
-    file_path = "C:\\Users\\Ruoteng\\Desktop\\device_id.bin"
+    file_path = "device_id.bin"
 
     key = base64.urlsafe_b64encode(hashlib.sha256(device_id.encode()).digest())
     cipher_suite = Fernet(key)
