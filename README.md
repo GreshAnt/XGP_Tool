@@ -12,10 +12,4 @@
 
 6.把下载下来的压缩包解压，把里面的exe文件放到和XGP.exe同一个文件夹
 
-7.直接运行XGP.exe，没有密码找discord greshant买密码
-
-8.积极更新，会修复bug并增加新功能
-https://wwto.lanzouk.com/b038ifyhg
-密码:i708\
-
-9.当你拿到hwid文件的时候，放到程序同目录
+7.当你拿到hwid文件的时候，放到程序同目录
