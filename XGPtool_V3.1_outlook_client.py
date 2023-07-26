@@ -351,8 +351,8 @@ logo = '''   ______                          __      ___            __
 def email():
     # 定义目标网页的 URL
     email_api = [
-        'https://api.yx1024.cc/getAccountApi.aspx?uid=51901&type=70&token=5a5d3e50c916c71adbf3d3bc821c6632&count=1',
-        'https://api.yx1024.cc/getAccountApi.aspx?uid=92131&type=70&token=6063e27b5feaea7c51c4682b27c242b8&count=1']
+        'Your email api here',
+        'Your email api here']
     shuffle(email_api)
     url = email_api[0]
 
