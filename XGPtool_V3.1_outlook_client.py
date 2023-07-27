@@ -633,7 +633,6 @@ if __name__ == "__main__":
     print('>请先看“看我.txt”！')
     print('>本程序所有代码均由GreshAnt编写!!!')
     while 1:
-        print('>本程序仅供学习，请在24小时内删除，不要外泄程序和密码，否则被警察抓到后果自负！！！')
         if 1 == 1:
             c()
             server = str(input(
