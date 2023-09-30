@@ -10,6 +10,6 @@
 5.去这个网站 https://msedgewebdriverstorage.z22.web.core.windows.net/?prefix=这里删掉替换成你的版本号/，然后选择edgedriver_win32.zip或者edgedriver_win64.zip，
 这个得看你的系统，32位就选edgedriver_win32.zip，64位就选edgedriver_win64.zip，不知道的话直接下载edgedriver_win32.zip
 
-6.把下载下来的压缩包解压，把里面的exe文件放到和XGP.exe同一个文件夹
+6.把下载下来的压缩包解压，把里面的exe文件放到和py文件同一个文件夹
 
 7.当你拿到hwid文件的时候，放到程序同目录
