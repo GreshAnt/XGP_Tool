@@ -1,3 +1,10 @@
+
+----warning---
+此项目不再更新，目前无人维护
+This project is no longer updated and is currently unmaintained.
+
+
+
 1.Python
 
 2.确保你已经下载microsoft edge浏览器
@@ -15,5 +22,4 @@
 7.当你拿到hwid文件的时候，放到程序同目录
 
 
-这个3.1版本应该是最后一个免费版本，后面的都要收费，不想交钱的可以直接用免费的。
-购买的话discord找greshant 或者qq找3092555691 wx找GreshAnt
+
